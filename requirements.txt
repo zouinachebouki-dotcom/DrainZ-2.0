@@ -1,5 +1,5 @@
-
-streamlit
-pandas
-numpy
-plotly
+streamlit>=1.40
+numpy>=1.26
+pandas>=2.0
+plotly>=5.20
+pyserial>=3.5
